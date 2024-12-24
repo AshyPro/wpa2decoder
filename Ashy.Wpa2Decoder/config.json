@@ -1,0 +1,39 @@
+{
+  "DictionarySettings": {
+    "WordsFile": "words.txt",
+    "PaddingsFile": "paddings.txt",
+    "YearsRange": {
+      "YearsRangeString": "2024-2025",
+      "YearsRangeSpecified": true,
+      "YearsRangeRange": {}
+    },
+    "WordConnectors": [
+      "",
+      "_",
+      "-"
+    ],
+    "Transformations": {
+      "a": ["@", "4"],
+      "b": ["8"],
+      "e": ["3"],
+      "g": ["9", "6"],
+      "i": ["1", "!"],
+      "o": ["0", "oo"],
+      "0": ["o", "00"],
+      "s": ["$", "5", "z"],
+      "t": ["7"],
+      "r": ["rr"],
+      "l": ["|", "1"]
+    },
+    "Modifications": {
+      "el": "l",
+      "ex": "x",
+      "fo": "4",
+      "for": "4",
+      "ever": "evr"
+    },
+    "CapitalizeOnlyFirstLetter": true,
+    "MinPasswordLength": 8,
+    "MaxPasswordLength": 10
+  }
+}

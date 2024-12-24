@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpa2Decoder", "Wpa2Decoder\Wpa2Decoder.csproj", "{0097FE7F-16E4-4D2D-B9F9-E1805070C3FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ashy.Wpa2Decoder", "Ashy.Wpa2Decoder\Ashy.Wpa2Decoder.csproj", "{0097FE7F-16E4-4D2D-B9F9-E1805070C3FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
